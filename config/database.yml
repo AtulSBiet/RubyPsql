@@ -1,6 +1,6 @@
 adapter: postgresql
-host: 10.0.2.12                      # VM IP    
-port: 57359                      # VM Port   
+host: 192.168.2.202                      # VM IP    
+port: 42184                      # VM Port   
 database: t         # Database Name    
-username: a01k5nwp86vfhp7v             # User Name    
-password: 'fm29jaw9zun55n41t4a0nu6k674un5e1'            # Password  
+username: a53uyrbve1doloht             # User Name    
+password: 'aqpexlrei85g406fbzu049feyn71w6la'            # Password  
